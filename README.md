@@ -38,12 +38,4 @@ I am contributing on
 | ------------------------------------------------------------------------------- | :-: | ----------- | --- |
 | <a href="https://github.com/stormkit-io/app-stormkit-io"><b>Stormkit.io</b></a> |     |
 
-<br>
-
-# 📈 Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlori)](https://github.com/ivanlori/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanlori)](https://github.com/ivanlori/github-readme-stats)
-
 </div>
