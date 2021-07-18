@@ -34,8 +34,8 @@ Projects created
 
 I am contributing on
 
-| Name                                                                            |     | Description |     |
-| ------------------------------------------------------------------------------- | :-: | ----------- | --- |
-| <a href="https://github.com/stormkit-io/app-stormkit-io"><b>Stormkit.io</b></a> |     |
+| Name                                                                            |     | Description                               |     |
+| ------------------------------------------------------------------------------- | :-: | ----------------------------------------- | --- |
+| <a href="https://github.com/stormkit-io/app-stormkit-io"><b>Stormkit.io</b></a> |     | infrastructure for modern javascript apps |
 
 </div>
