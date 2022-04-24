@@ -26,4 +26,5 @@ Projects created
 | <a href="https://github.com/ivanlori/CV-builder"><b>CV Builder</b></a>          | An application to create Resumes with export in PDF made with React.js and Express.js |
 | <a href="https://github.com/ivanlori/Sveltemmerce"><b>Sveltemmerce</b></a>      | A basic E-commerce template built with Svelte.js                                      |
 
+![Metrics](https://metrics.lecoq.io/ivanlori?template=classic&stars=1&stars.limit=4&config.timezone=Europe%2FRome)
 </div>
