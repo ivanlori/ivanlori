@@ -3,8 +3,8 @@
 # 👋🏻 Hello
 
 Welcome to my profile!<br>
-I am Ivan a Front-End Developer who wants create helpful tools for the masses.<br>
-Love seeing people who use my projects. 💪🏻
+I'm a Developer focused on the JS and CSS languages. My goal is to create helpful tools for the masses and enjoy the process.<br>
+My projects are not updated frequently because of the lack of time.<br>It is possible to find bugs and incomplete work done. 💪🏻
 
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
