@@ -3,7 +3,7 @@
 # 👋🏻 Hello
 
 Welcome to my profile!<br>
-I'm a Developer focused on the JS and CSS language. I aim to create helpful tools for the masses and enjoy the process.<br>
+I'm a Developer focused on the JS and CSS language.<br>I aim to create helpful tools for the masses and enjoy the process.<br>
 My projects are not updated frequently because of the lack of time.<br>It is possible to find bugs and incomplete work done.
 
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
