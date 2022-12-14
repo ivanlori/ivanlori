@@ -28,3 +28,6 @@ Projects created
 | <a href="https://github.com/ivanlori/Sveltemmerce"><b>Sveltemmerce</b></a>      | A basic E-commerce template built with Svelte.js                                      |
 
 </div>
+<div align="center">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="60a275d7-134f-4dde-94ea-d38ac1be8f6b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  </div>
