@@ -24,7 +24,6 @@ Projects created
 | <a href="https://github.com/ivanlori/Vuemmerce"><b>Vuemmerce</b></a>            | A basic E-commerce template built with Vue.js                                         |
 | <a href="https://github.com/ivanlori/Fullstacco"><b>Fullstacco</b></a>          | A MERN boilerplate for your next project                                              |
 | <a href="https://github.com/ivanlori/EstimateOnline"><b>Estimate online</b></a> | An online estimate of costs written in JS and Typescript                              |
-| <a href="https://github.com/ivanlori/CV-builder"><b>CV Builder</b></a>          | An application to create Resumes with export in PDF made with React.js and Express.js |
 | <a href="https://github.com/ivanlori/Sveltemmerce"><b>Sveltemmerce</b></a>      | A basic E-commerce template built with Svelte.js                                      |
 
 </div>
