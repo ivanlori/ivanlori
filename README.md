@@ -28,11 +28,12 @@ I create useful tools for developers while enjoying the journey of development. 
 
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
-| [Vuemmerce](https://github.com/ivanlori/Vuemmerce) | A fully-featured e-commerce template | Vue.js, Vuex, Vue Router |
+| [Cashtrack](https://github.com/ivanlori/cashtrack) | PWA for cash expenses | React.js |
+| [Vuemmerce](https://github.com/ivanlori/Vuemmerce) | A fully-featured e-commerce template [ARCHIVED] | Vue.js, Vuex, Vue Router |
 | [Fullstacco](https://github.com/ivanlori/Fullstacco) | Production-ready MERN stack boilerplate | MongoDB, Express.js, React.js, Node.js |
 | [Estimate Online](https://github.com/ivanlori/EstimateOnline) | Professional cost estimation tool | JavaScript, TypeScript |
 | [Sveltemmerce](https://github.com/ivanlori/Sveltemmerce) | Modern e-commerce template | Svelte.js, SvelteKit |
-| [Cashtrack](https://github.com/ivanlori/cashtrack) | PWA for cash expenses | React.js |
+| [Dotfiles](https://github.com/ivanlori/dotfiles) | Personal configuration files | Shell, Configuration |
 
 <p align="center">
   <i>Thanks for stopping by, and feel free to explore my repositories!</i>
