@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋🏻 Hello, I'm Ivan
+# 👋🏻 Hello, I'm Buggato
 
-Welcome to my digital space!
+I break things. Then I fix them (sometimes)
 
 <p align="center">
   <em>JavaScript & CSS Specialist • Web Developer • Open Source Enthusiast</em>
 </p>
 
-I create useful tools for developers while enjoying the journey of development. I'm passionate about clean code, responsive design, and innovative solutions.
+I enjoying the journey of development. I'm passionate about clean code, responsive design, and innovative solutions.
 
 ## 🛠️ Tech Stack
 
