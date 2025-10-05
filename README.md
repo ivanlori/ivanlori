@@ -65,17 +65,6 @@ I enjoying the journey of development. I'm passionate about clean code, responsi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanlori&show_icons=true&theme=radical)
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| ------- | ----------- | ---------- |
-| [Cashtrack](https://github.com/ivanlori/cashtrack) | PWA for cash expenses | React.js |
-| [Vuemmerce](https://github.com/ivanlori/Vuemmerce) | A fully-featured e-commerce template [ARCHIVED] | Vue.js, Vuex, Vue Router |
-| [Fullstacco](https://github.com/ivanlori/Fullstacco) | Production-ready MERN stack boilerplate | MongoDB, Express.js, React.js, Node.js |
-| [Estimate Online](https://github.com/ivanlori/EstimateOnline) | Professional cost estimation tool | JavaScript, TypeScript |
-| [Sveltemmerce](https://github.com/ivanlori/Sveltemmerce) | Modern e-commerce template | Svelte.js, SvelteKit |
-| [Dotfiles](https://github.com/ivanlori/dotfiles) | Personal configuration files | Shell, Configuration |
-
 <p align="center">
   <i>Thanks for stopping by, and feel free to explore my repositories!</i>
 </p>
