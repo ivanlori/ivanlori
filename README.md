@@ -50,12 +50,12 @@ I enjoying the journey of development. I'm passionate about clean code, responsi
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
+      <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=deno" width="48" height="48" alt="deno" />
-      <br>Deno
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c" />
+      <br>C
     </td>
   </tr>
 </table>
