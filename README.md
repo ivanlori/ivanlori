@@ -4,6 +4,9 @@
 
 I break things. Then I fix them (sometimes)
 
+> **📢 Note:** Most of my repositories have moved to Codeberg!  
+> Check them out here: **[codeberg.org/buggato](https://codeberg.org/buggato)**
+
 <p align="center">
   <em>JavaScript & CSS Specialist • Web Developer • Open Source Enthusiast</em>
 </p>
